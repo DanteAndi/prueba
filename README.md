@@ -1,2 +1,3 @@
 # prueba
-nombre : Dante Andi Quispe Rojas
+Nombre : Dante Andi Quispe Rojas
+Materia : INF - 122
